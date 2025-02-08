@@ -9,7 +9,7 @@
 
 - 👨‍💻 My projects are available at [https://tamirat-dejene.vercel.app](https://tamirat-dejene.vercel.app)
 
-- 💬 Ask me about **react, typescript, node, data staructure and algorithms**
+- 💬 Ask me about **react, typescript, node, data staructures and algorithms**
 
 - 📫 How to reach me **tamirat.dejenie@gmail.com**
 
