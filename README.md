@@ -9,9 +9,9 @@
 
 - 👨‍💻 My projects are available at [https://tamirat-dejene.vercel.app](https://tamirat-dejene.vercel.app)
 
-- 💬 Ask me about **react, typescript, node, data staructures and algorithms**
+- 💬 Ask me about **Go, Clean Architecture, Backend Development, Data Structures and Algorithms**
 
-- 📫 How to reach me **tamirat.dejenie@gmail.com**
+- 📫 Reach out to me **tamirat.dejenie@gmail.com** and let's build and solve some problem.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
