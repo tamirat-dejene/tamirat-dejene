@@ -1,27 +1,61 @@
-<h1 align="center">Hi 👋, I'm Tamirat Dejene</h1>
-<h3 align="center">A passionate full-stack developer and a software engineering student at Addis Ababa Sci. Tech. Dedicated to creating innovative and impactful solutions, I thrive on bringing ideas to life and collaborating to drive success.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamirat-dejene&label=Profile%20views&color=0e75b6&style=flat" alt="tamirat-dejene" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamirat-dejene" alt="tamirat-dejene" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 My projects are available at [https://tamirat-dejene.vercel.app](https://tamirat-dejene.vercel.app)
-
-- 💬 Ask me about **Go, Clean Architecture, Backend Development, Data Structures and Algorithms**
-
-- 📫 Reach out to me **tamirat.dejenie@gmail.com** and let's build and solve some problem.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://tamirat-dejene.vercel.app">
+    <img width="70%" alt="Hello, I'm Tamirat 👋 — a Software Engineering Student & Full-Stack Developer." src="./assets/Hello__I_m_Tamirat.png" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I do and study Software Engineering from Ethiopia 🇪🇹
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamirat-dejene&show_icons=true&locale=en&layout=compact" alt="tamirat-dejene" /></p>
+#### 🙋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamirat-dejene&show_icons=true&locale=en" alt="tamirat-dejene" /></p>
+- 💼 Currently a 4th-year Software Engineering student at **Addis Ababa Science & Technology University**  
+- 📈 Worked on projects ranging from **Go backends with Clean Architecture** to **modern React apps**  
+- ❤️ I love building scalable backends in **Go** and experimenting with **React, TypeScript, and Clean Architecture**  
+- 💬 Ask me about **Go, React, TypeScript, Node, Clean Architecture, Backend Development, Data Structures & Algorithms**  
+- 👨‍💻 Check out my portfolio: [tamirat-dejene.vercel.app](https://tamirat-dejene.vercel.app)  
+- 📫 Reach me at **tamirat.dejenie@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamirat-dejene&" alt="tamirat-dejene" /></p>
+<br />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tamirat-dejene&label=Profile%20views&color=0e75b6&style=flat" alt="tamirat-dejene" /> </p>
+
+#### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=tamirat-dejene&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&margin-h=5" width="90%" />
+
+#### 💻 Languages & Tools
+
+<!-- Programming Languages -->
+<code><img height="20" width="20" alt="go" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code>
+<code><img height="20" width="20" alt="java" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="20" width="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" width="20" alt="cplusplus" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" width="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="20" width="20" alt="jupyter" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="20" width="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" width="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" width="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"></code>
+<code><img height="20" width="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
+<code><img height="20" width="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" width="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
+<code><img height="20" width="20" alt="tailwindcss" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
+
+
+| <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tamirat-dejene&show_icons=true&include_all_commits=true&hide_border=true" alt="Tamirat's github stats" /></a> | <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirat-dejene&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+#### 🔥 Top Repositories
+
+| <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=blog-backend" /></a> | <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=customzed-hms&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+<br />
+<br />
+
+<a href="https://twitter.com/tamirat_dejenie">
+  <img align="right" alt="Tamirat Dejene | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tamirat-dejene-40531b234">
+  <img align="right" alt="Tamirat Dejene | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
