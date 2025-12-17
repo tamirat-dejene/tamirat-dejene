@@ -46,7 +46,7 @@ I do and study Software Engineering from Ethiopia 🇪🇹
 
 #### 🔥 Top Repositories
 
-| <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=blog-backend" /></a> | <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=customzed-hms&hide_border=true" /></a> |
+| <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=ha-soranu" /></a> | <a href="https://github.com/tamirat-dejene/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamirat-dejene&repo=customzed-hms&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
