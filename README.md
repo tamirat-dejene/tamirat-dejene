@@ -8,10 +8,10 @@ I do and study Software Engineering from Ethiopia 🇪🇹
 
 #### 🙋 About Me
 
-- 💼 Currently a 5th-year Software Engineering student at **Addis Ababa Science & Technology University**
+- 💼 I study Software Engineering at **Addis Ababa Science & Technology University**
 - 📈 Worked on projects ranging from **Go backends with Clean Architecture** to **modern React apps**  
 - ❤️ I love building scalable backends in **Go** and experimenting with **React, TypeScript, and Clean Architecture**  
-- 💬 Ask me about **Go, React, TypeScript, Node, Clean Architecture, Backend Development, DSA**  
+- 💬 Ask me about **Go, React, TypeScript, Node, Clean Architecture, Backend Development, Microservices, DSA**  
 - 👨‍💻 Check out my portfolio: [tamirat-dejene.vercel.app](https://tamirat-dejene.vercel.app)  
 - 📫 Reach me at **tamirat.dejenie@gmail.com**
 
