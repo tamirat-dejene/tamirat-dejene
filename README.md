@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tamirat-dejene.vercel.app">
-    <img width="70%" alt="Hello, I'm Tamirat 👋 — a Software Engineering Student & Full-Stack Developer." src="./assets/Hello__I_m_Tamirat.png" />
+    <img width="70%" alt="Hello, I'm Tamirat 👋 — a Software Engineer & Full-Stack Developer." src="./assets/Hello_I_m_Tamirat.png" />
   </a>
 </p>
 
